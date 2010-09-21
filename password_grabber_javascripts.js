@@ -1,3 +1,4 @@
+// HOW-TO:
 // First type somthing in password field.
 // Now without signing in or hitting ENTER
 // Copy and paste corresponding codes in address bar.
